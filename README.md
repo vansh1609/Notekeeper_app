@@ -1,6 +1,5 @@
 # notekeeper_app
-
-A new Flutter project.
+This is a notekeeper application developed using dart programming language and flutter framework. Through this application we can maintain a to-do list along with the priorities of the tasks that we want to complete. 
 
 ## Getting Started
 
